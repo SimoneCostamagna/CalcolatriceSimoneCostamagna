@@ -1,4 +1,5 @@
 # CalcolatriceSimoneCostamagna
-<bold>|Simone Costamagna|3^D-Info|</bold>
-File della repository:
+|Simone Costamagna|3^D-Info|
+
+# File presenti nella repository:
 -Somma.txt
